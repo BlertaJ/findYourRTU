@@ -142,8 +142,8 @@ div.col-md-4{
 
 }
 form.example button {
-    align-self: center;
-  width: 100%;
+  
+  width: 40%;
   background: #AAAAAA;
   color: white;
   font-size: 17px;
